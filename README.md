@@ -1,2 +1,2 @@
-# Simple-Projects
-In this repo I'll be adding the projects I made in Python and Java language during my university life.
+# Projects
+In this repo I'll be adding some simple,cool and fun projects.
